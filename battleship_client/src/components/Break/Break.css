@@ -1,0 +1,17 @@
+.break{
+    background-color: white;
+    font-family: Nunito,sans-serif;
+    font-size: 30px;
+    text-align: center;
+    height: 300px;
+    display: grid;
+    align-items: center;
+}
+
+.break button{
+    font-size: 30px;
+    background-color: white;
+    font-family: Nunito,sans-serif;
+    padding:10px;
+    margin-top: 70px;
+}

@@ -1,0 +1,22 @@
+.waiting-container {
+    background-color: white;
+
+    margin:0 20%;
+
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 40px;
+    align-items: center;
+    padding-top: 50px;
+    min-width: 700px;
+}
+
+.waiting-container img {
+    margin-top: 50px;
+}
+
+.dots {
+    width: 10px;
+    display: inline-block;
+}
+

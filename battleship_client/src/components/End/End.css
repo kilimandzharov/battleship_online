@@ -1,0 +1,25 @@
+.end{
+    font-size: 30px;
+    font-family:Nunito,sans-serif;
+    padding:10px;
+    background-color: white;
+    height: 300px;
+    width: auto;
+    text-align: center;
+    display: grid;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+
+.restart-button{
+    margin-top:20px;
+    height: 50px;
+    font-size: 25px;
+    font-family: Nunito, sans-serif;
+    padding:0 10px;
+}
+
+

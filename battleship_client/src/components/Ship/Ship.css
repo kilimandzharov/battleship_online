@@ -1,0 +1,6 @@
+.ship{
+    border:2px solid #00afff;
+    width: 50px;
+    box-sizing: border-box;
+    position: relative;
+}
